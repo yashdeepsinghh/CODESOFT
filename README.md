@@ -1,4 +1,4 @@
-# CODSOFT Intern Projects
+# CODSOFT Projects
 ### 1.1 Python Programming Tasks :
 https://github.com/yashdeepsinghh/CODESOFT/tree/68951acc5f04f22090a74b7475d0c024cdc6ded6/Python%20Programming%20Tasks
 
